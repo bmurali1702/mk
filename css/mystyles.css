@@ -1,0 +1,34 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+    background: url("../images/mk.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+.box
+{
+	width: 400px;
+	height: 400px;
+	box-shadow: 2px 2px 16px 6px blue;
+	float: left;
+	margin: 50px 50px;
+}
+.img-box img
+{
+	width: 400px;
+	height: 400px;
+	box-shadow: 2px 2px 16px 6px blue;
+	float: left;
+	margin: 50px 50px;
+}
+
+.box p
+{
+	text-align: justify;
+	font-size: 2px;
+	padding: 2px;
+	color: breen;
+}
